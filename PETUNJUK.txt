@@ -1,0 +1,6 @@
+MGP CATATAN PEKERJA - PWA
+
+Unggah semua file dalam folder ini ke ROOT repository GitHub Pages yang baru.
+Pastikan nama index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png tetap sama.
+Aktifkan GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
+Buka URL GitHub Pages melalui Chrome Android untuk memasang aplikasi.
